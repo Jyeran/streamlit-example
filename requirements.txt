@@ -1,3 +1,9 @@
 altair
 pandas
 streamlit
+pandas
+requests
+beautifulsoup4
+numpy
+streamlit
+tabulate
